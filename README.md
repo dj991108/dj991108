@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.shields.io/badge/R-1572B6?style=flat&logo=R&logoColor=white" />
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white" />
 </div>
 
 
