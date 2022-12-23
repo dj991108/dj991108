@@ -4,8 +4,10 @@ dj991108/dj991108 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
- <img src="https://img.shields.io/badge/C-3178C6?style=flat&logo=#A8B9CC&logoColor=white"/>
- <img src="https://img.shields.io/badge/JAVA-#FBBA00?style=flat&logo=TypeScript&logoColor=white"/>
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-E34F26?style=flat&logo=C&logoColor=white" />
+</div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dj991108&show_icons=true&theme=radical)
