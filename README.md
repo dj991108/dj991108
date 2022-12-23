@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-E34F26?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/R-#276DC3?style=flat&logo=R&logoColor=white" />
 </div>
 
 
