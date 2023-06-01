@@ -17,5 +17,3 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white" />
 </div>
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dj991108)]
