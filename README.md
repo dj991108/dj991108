@@ -1,6 +1,6 @@
 <center>
 
-![header](https://capsule-render.vercel.app/api?text=Dong&nbsp;Jun&nbsp;Kim&fontSize=60&type=Rounded&color=0b61ae&fontColor=f3f6f4&animation=fadeIn&fontAlignY=40&desc=Dreaming%20of%20AI%20Engineer.&descAlignY=80&descAlign=50)
+![header](https://capsule-render.vercel.app/api?text=Dong&nbsp;Jun&nbsp;Kim&fontSize=60&type=Soft&color=0b61ae&fontColor=f3f6f4&animation=fadeIn&fontAlignY=40&desc=Dreaming%20of%20AI%20Engineer.&descAlignY=80&descAlign=50)
 
 </center>
 <!---
