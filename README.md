@@ -1,13 +1,25 @@
+
 <center>
 
-![header](https://capsule-render.vercel.app/api?text=Dong&nbsp;Jun&nbsp;Kim&fontSize=60&type=Soft&color=0b61ae&fontColor=f3f6f4&animation=fadeIn&fontAlignY=40&desc=Dreaming%20of%20AI%20Engineer.&descAlignY=80&descAlign=50)
+![header](https://capsule-render.vercel.app/api?text=Dong&nbsp;Jun&nbsp;Kim&fontSize=60&type=Soft&color=FFFFFF&fontColor=0b61ae&animation=fadeIn&fontAlignY=40&desc=Dreaming%20of%20AI%20Engineer.&descAlignY=80&descAlign=50)
 
 </center>
-<!---
-dj991108/dj991108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
+<br>
+
+## **Interesting**
+
+<br>
+
+## **Project & Achievement**
+
+<br>
+
+## **Tech Stack**
+
+<br>
+
+<!---
 <div align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-E34F26?style=flat&logo=C&logoColor=white" />
@@ -21,4 +33,4 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white" />
 </div>
-
+--->
