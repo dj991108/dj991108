@@ -19,6 +19,10 @@
 
 <br>
 
+&nbsp;&nbsp;&nbsp;**[바른흡연](https://github.com/DaMoim-Team/DaMoim_ReadMe)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;YOLO,&nbsp;&nbsp;OpenPose,&nbsp;&nbsp;SORT&nbsp;Tracking&nbsp;Algorithm을 통해 구현한 흡연자 검출 AI Model System**
+
+<br>
+
 ## **Tech Stack**
 
 <br>
