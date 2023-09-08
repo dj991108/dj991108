@@ -8,6 +8,10 @@
 <br>
 
 ## **Interesting**
+&nbsp;&nbsp; 🤖 **AI** <br>
+&nbsp;&nbsp; 👁️‍🗨️ **Computer Vison**<br>
+&nbsp;&nbsp; 📚 **Data Science**<br>
+&nbsp;&nbsp; ⚙️ **Backend**<br>
 
 <br>
 
