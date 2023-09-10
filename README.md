@@ -23,7 +23,7 @@
 AI, Backend Part
 **&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YOLO,&nbsp;&nbsp;OpenPose,&nbsp;&nbsp;SORT&nbsp;Tracking&nbsp;Algorithm을 통해 구현한 "흡연자 검출 AI Model System"**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2023 한성대학교 컴퓨터공학부 캡스톤디자인 우수상(2위)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- IIBC&nbsp;&nbsp;VOL.23, 8월호 ["딥러닝 기술을 이용한 영상에서 흡연행위 검출"](https://github.com/DaMoim-Team/DaMoim_ReadMe/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EC%88%A0%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%98%81%EC%83%81%EC%97%90%EC%84%9C%20%ED%9D%A1%EC%97%B0%ED%96%89%EC%9C%84%20%EA%B2%80%EC%B6%9C.pdf) 논문 게재&nbsp;(제 1저자)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2023 한성대학교 컴퓨터공학부 캡스톤디자인 우수상(2위)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- IIBC&nbsp;&nbsp;VOL.23, 8월호 [**"딥러닝 기술을 이용한 영상에서 흡연행위 검출"**](https://github.com/DaMoim-Team/DaMoim_ReadMe/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EC%88%A0%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%98%81%EC%83%81%EC%97%90%EC%84%9C%20%ED%9D%A1%EC%97%B0%ED%96%89%EC%9C%84%20%EA%B2%80%EC%B6%9C.pdf) 논문 게재&nbsp;(제 1저자)
 
 <br>
 
@@ -37,7 +37,11 @@ AI Part
 
 &nbsp;&nbsp;&nbsp;**[YOP](https://github.com/dj991108/YOP)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**
 Personal Project
-**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karlo API를 이용한 AI 이미지 생성 및 변환 IOS 어플**<br><br>
+**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karlo API를 이용한 AI 이미지 생성 및 변환 IOS 어플**<br><br>
+
+&nbsp;&nbsp;&nbsp;**[BDP](https://github.com/dj991108/BigDataProgramming)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**
+Data Analysis Part
+**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;와인 리뷰 데이터셋을 통해 분석한 "와인 평점과 가격간의 상관관계"**<br><br>
 
 
 <br>
