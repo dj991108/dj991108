@@ -46,7 +46,6 @@ Data Analysis Part
 <br>
 
 ## **Tech Stack**
-<br>
 
 - ### AI
 
