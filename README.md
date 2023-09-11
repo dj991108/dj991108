@@ -43,29 +43,53 @@ Personal Project
 Data Analysis Part
 **&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;와인 리뷰 데이터셋을 통해 분석한 "와인 평점과 가격간의 상관관계"**<br><br>
 
-
 <br>
-<br>
-<br>
-
-
 
 ## **Tech Stack**
+<br>
+
+- ### AI
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![PyTorch Badge](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch&logoColor=FF6F00)
+![Tesorflow Badge](https://img.shields.io/badge/Tensorflow-black?style=flat-square&logo=Tensorflow&logoColor=FF6F00)
+![Keras Badge](https://img.shields.io/badge/Keras-black?style=flat-square&logo=Keras&logoColor=FF6F00)
+![OpenCV Badge](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv&logoColor=FF6F00)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Colab Badge](https://img.shields.io/badge/Colab-262626?style=flat-square&logo=GoogleColab&logoColor=FF6F00) 
+![Kaggle Badge](https://img.shields.io/badge/Kaggle-262626?style=flat-square&logo=Kaggle&logoColor=FF6F00) 
+![Roboflow Badge](https://img.shields.io/badge/Roboflow-262626?style=flat-square&logo=Roboflow&logoColor=FF6F00)
 
 <br>
 
-<!---
-<div align="left">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-E34F26?style=flat&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/R-1572B6?style=flat&logo=R&logoColor=white" />
-	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Swift-FF4500?style=flat&logo=Swift&logoColor=white" />
-	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white" />
-</div>
---->
+- ### Language
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Python Badge](https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=00008b)
+![C Badge](https://img.shields.io/badge/C-white?style=flat&logo=C&logoColor=00008b)
+![JAVA Badge](https://img.shields.io/badge/JAVA-white?style=flat&logo=JAVA&logoColor=00008b) 
+![C++ Badge](https://img.shields.io/badge/C++-white?style=flat&logo=C%2B%2B&logoColor=00008b)
+![Swift Badge](https://img.shields.io/badge/Swift-white?style=flat&logo=swift&logoColor=00008b)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-white?style=flat&logo=Kotlin&logoColor=00008b)
+![R Badge](https://img.shields.io/badge/R-white?style=flat&logo=R&logoColor=00008b)
+
+<br>
+
+- ### Skills
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Linux Badge](https://img.shields.io/badge/Linux-326CE5?style=flat-square&logo=Linux&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/AWS-326CE5?style=flat-square&logo=amazonaws&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-326CE5?style=flat-square&logo=MySQL&logoColor=white)
+![Redis Badge](https://img.shields.io/badge/Redis-326CE5?style=flat-square&logo=Redis&logoColor=white)
+![Flask Badge](https://img.shields.io/badge/Flask-326CE5?style=flat-square&logo=Flask&logoColor=white)
+![Firebase Badge](https://img.shields.io/badge/Firebase-326CE5?style=flat-square&logo=Firebase&logoColor=white)
+![Celery Badge](https://img.shields.io/badge/celery-326CE5?style=flat-square&logo=celery&logoColor=white)
+![MQTT Badge](https://img.shields.io/badge/MQTT-326CE5?style=flat-square&logo=MQTT&logoColor=white)
+
+<br>
+
+- ### Tools
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Git Badge](https://img.shields.io/badge/Git-A22846?style=flat-square&logo=Git&logoColor=white)
+![Notion Badge](https://img.shields.io/badge/Notion-A22846?style=flat-square&logo=Notion&logoColor=white)
+![Slack Badge](https://img.shields.io/badge/Slack-A22846?style=flat-square&logo=Slack&logoColor=white)
+![Photoshop Badge](https://img.shields.io/badge/Photoshop-A22846?style=flat-square&logo=AdobePhotoshop&logoColor=white)
+
+
+<br>
+<br>
