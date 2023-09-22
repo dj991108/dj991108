@@ -7,8 +7,7 @@
 
 <br>
 
-**Interesting**
------
+## **Interesting**
 ### &nbsp;&nbsp; 🧠 **AI** <br>
 ### &nbsp;&nbsp; 👁️‍🗨️ **Computer Vison**<br>
 ### &nbsp;&nbsp; 📚 **Data Science**<br>
