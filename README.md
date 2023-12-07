@@ -39,6 +39,10 @@ AI Part
 Personal Project
 **&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karlo API를 이용한 AI 이미지 생성 및 변환 IOS 어플**<br><br>
 
+&nbsp;&nbsp;&nbsp;**[LSP](https://github.com/dj991108/LSP)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**
+Personal Project
+**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raspberry PI 와 OpenPose AI Model을 활용한 공부환경 조성 시스템**<br><br>
+
 &nbsp;&nbsp;&nbsp;**[BDP](https://github.com/dj991108/BigDataProgramming)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**
 Data Analysis Part
 **&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;와인 리뷰 데이터셋을 통해 분석한 "와인 평점과 가격간의 상관관계"**<br><br>
