@@ -30,6 +30,9 @@ AI, Backend Part
 &nbsp;&nbsp;&nbsp;**[Sinabro](https://github.com/OSS-Sinabro/Sinabro_Readme)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**
 AI, Backend Part
 **&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"침수도로 분류 AI Model" 개발 및 이를 활용한 CCTV 관제 System**<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- JIIBC&nbsp;&nbsp;VOL.23, 12월호 [**"CNN 기술을 적용한 침수탐지 학습모델 개발"**](https://github.com/OSS-Sinabro/Sinabro_Readme/blob/main/CNN%20%EA%B8%B0%EC%88%A0%EC%9D%84%20%EC%A0%81%EC%9A%A9%ED%95%9C%20%EC%B9%A8%EC%88%98%ED%83%90%EC%A7%80%20%ED%95%99%EC%8A%B5%EB%AA%A8%EB%8D%B8%20%EA%B0%9C%EB%B0%9C.pdf) 논문 게재&nbsp;(제 1저자)
+
+<br>
 
 &nbsp;&nbsp;&nbsp;**[AImagine](https://github.com/K-Ium-AImagine/AImagine)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**
 AI Part
