@@ -13,6 +13,6 @@ Jan. 2024 ~ May. 2024 <br>
 &nbsp;&nbsp; _Undergraduate Intern_ in **"딥러닝 학습 추론 지능 연구실"**,  **Hanyang University**
 <br><br>
 Mar. 2018 ~ Aug. 2024 <br>
-&nbsp;&nbsp; _B.Sc._ in Computer Engineering, **Hansung University
+&nbsp;&nbsp; _B.Sc._ in Computer Engineering, **Hansung University**
 
 <br>
