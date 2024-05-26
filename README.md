@@ -1,6 +1,6 @@
 Hi. I'm DongJun Kim. <br>
 I'm interested in **Artificial Intelligence** research.  <br>
-Please refer to my **[CV](https://github.com/dj991108/dj991108/files/15446770/CV.pdf)** for more details. <br>
+Please refer to my **[CV](https://github.com/dj991108/dj991108/files/15448208/CV.pdf)** for more details. <br>
 
 
 > **Contact me at** <br>
