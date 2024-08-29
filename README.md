@@ -25,7 +25,7 @@ Jul. 2024 ~ Aug. 2024 <br>
 ***
 ## ✔ ACHIEVEMENT <br>
 
-- Dec. 2023 &nbsp;&nbsp; [Paper]&nbsp;&nbsp;[CNN 기술을 적용한 침수탐지 학습모델 개발](https://github.com/user-attachments/files/16798777/CNN.pdf)&nbsp;(IIBC),&nbsp;&nbsp;&nbsp;**First Author**
+- Dec. 2023 &nbsp;&nbsp; [Paper]&nbsp;&nbsp;["CNN 기술을 적용한 침수탐지 학습모델 개발"](https://github.com/user-attachments/files/16798777/CNN.pdf)&nbsp;(IIBC),&nbsp;&nbsp;&nbsp;**First Author**
 - Aug. 2023 &nbsp;&nbsp; [Paper]&nbsp;&nbsp;["딥러닝 기술을 이용한 영상에서 흡연행위 검출"](https://github.com/user-attachments/files/16798795/default.pdf)&nbsp;(IIBC),&nbsp;&nbsp;&nbsp;**First Author**
 
 - Nov. 2023 &nbsp;&nbsp; 공개SW 개발자대회 본선 진출 
