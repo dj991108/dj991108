@@ -11,7 +11,6 @@ Please refer to my [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072
 Oct. 2024 ~ Ongoing <br>
 &nbsp;&nbsp; _MS/Phd Integrated Student_ in&nbsp; **"ORLAB"**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Yonsei University**
 <br><br>
-
 Jan. 2024 ~ May. 2024 <br>
 &nbsp;&nbsp; _Undergraduate Intern_ in&nbsp; **"딥러닝 학습 추론 지능 연구실"**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hanyang University**
 <br><br>
