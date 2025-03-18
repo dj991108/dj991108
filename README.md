@@ -18,7 +18,7 @@ Jan. 2024 ~ May. 2024 <br>
 Mar. 2018 ~ Feb. 2025 <br>
 &nbsp;&nbsp; _B.Sc._ in Computer Engineering,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Hansung University**
 <br><br><br>
-Sep. 2024 ~ <br>
+Sep. 2024 ~ Jan. 2025 <br>
 &nbsp;&nbsp; _Data Science Team_ - 2nd Gen Member,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**EPOCH**
 <br><br>
 Jul. 2024 ~ Aug. 2024 <br>
